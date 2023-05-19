@@ -1,9 +1,26 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "jp.forestnotes",
-    "sha256_cert_fingerprints":
-    ["CC:16:E7:B1:2E:D9:70:EC:79:C5:F2:88:42:91:F6:E0:DC:23:FB:52:72:8A:5B:FE:77:59:93:39:37:B1:A8:32"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "jp.forestnotes",
+      "sha256_cert_fingerprints": [
+        "CC:16:E7:B1:2E:D9:70:EC:79:C5:F2:88:42:91:F6:E0:DC:23:FB:52:72:8A:5B:FE:77:59:93:39:37:B1:A8:32"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "jp.forestnotes",
+      "sha256_cert_fingerprints": [
+        "34:E9:B1:1E:0D:D1:CA:37:C5:17:49:93:E2:CF:AB:2D:E2:4B:A0:53:6E:1B:65:E2:20:97:16:E7:35:2C:F2:47"
+      ]
+    }
   }
-}]
+]
